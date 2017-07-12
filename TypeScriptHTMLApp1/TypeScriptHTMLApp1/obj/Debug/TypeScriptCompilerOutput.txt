@@ -1,2 +1,0 @@
-d:\my documents\visual studio 2017\Projects\TypeScriptHTMLApp1\TypeScriptHTMLApp1\app.js
-d:\my documents\visual studio 2017\Projects\TypeScriptHTMLApp1\TypeScriptHTMLApp1\app.js.map
