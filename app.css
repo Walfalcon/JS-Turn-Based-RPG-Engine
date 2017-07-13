@@ -1,7 +1,22 @@
 ﻿body {
     font-family: 'Segoe UI', sans-serif;
+    background:#d6daf0;
 }
 
 span {
     font-style: italic;
 }
+.container { 
+    position:relative; 
+    padding:0 0 0 175px; 
+}
+
+#sidebar {
+    position:fixed;
+    top:0; bottom:0; left:0;
+    width:170px;
+    background:#b7c5d9;
+}
+
+#content {}
+
