@@ -19,4 +19,11 @@ window.onload = function () {
     var el = document.getElementById('content');
     var game = new Game(el);
     game.start();
+
+    document.getElementById("loadBtn").onclick = function () {
+        game.load();
+    };
+    document.getElementById("saveBtn").onclick = function () {
+        game.save();
+    };
 };
